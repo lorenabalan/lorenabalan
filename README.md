@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 🔈 I said some things:
 * [Open Kedro Retro June 2021](https://www.youtube.com/watch?v=fULOrO-QpsE&ab_channel=QuantumBlack)
+* [PackagingCon 2021 talk)(https://www.youtube.com/watch?v=eb88mEvOUeE&ab_channel=PackagingCon)
